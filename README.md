@@ -5,8 +5,8 @@ repo oluşturuyoruz 10 temmuz
 ### Title 3
 #### Title 4
 
-  for i in range(10):
-    print(i)
+    for i in range(10):
+      print(i)
 
 
 [] 1. madde
