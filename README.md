@@ -10,5 +10,5 @@ repo oluşturuyoruz 10 temmuz
 
 
 > - [x] 1. madde
-> - [] 2. madde
-> - [] 3. madde
+> - [x] 2. madde
+> - [x] 3. madde
